@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navgate {
+  margin-left: 62px;
+  margin-right: 27px;
+  font-size: 14px;
+}
+
+.backendpage {
+  background-image: url("https://cdn5.vedomosti.ru/crop/image/2022/q/1dfi32/original-1s29.jpg?height=698&width=1241");
+
+  height: 50vh;
+  background-position: left;
+  background-size: cover;
+  min-height: 50px;
+}
+
+.title {
+  text-align: center;
+  width: 700;
+  size: 100px;
+  height: 94px;
+}
+
+.title > span {
+  color: #ff5a30;
+}
+
+.btnAbout {
+  text-align: center;
+  background-color: transparent;
+  size: 100vh;
+}
+.btnRequt {
+  text-align: center;
+  background-color: #ff5a30;
+  size: 100vh;
+}
+.img_class {
+  height: 50vh;
+  background-position: left;
+  background-size: cover;
+  min-height: 50px;
+}
+.textcenter {
+  text-align: center;
+}
+
+.centerdiv {
+  text-align: center;
+}
+
+.smallCards {
+  color: white;
+  font-size: medium;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+/* .card .smallCard p {
+  color: white;
+  font-size: medium;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px ;
+  } */
+
+.btnView {
+  color: white;
+  background-color: #ff5a30;
+}
+
+.btnprofil {
+  color: #ff5a30;
+  background-color: transparent;
+}
+
+.btnNew {
+  background-color: #ff5a30;
+}
+
+.FootEr {
+  background-color: #1e212c;
+  color: white;
+}
+
+.inputText {
+  color: black;
+}
+
+.btnSUB {
+  color: white;
+  background-color: #ff5a30;
+}
+
+.Backendpagetopage {
+  background-image: url("https://smmplanner.com/blog/content/images/size/w2000/2019/09/cover-7-oktybrya-1.jpg");
+
+  height: 100vh;
+  background-position: left;
+  background-size: cover;
+  min-height: 100px;
+}
+
+.btnrequest {
+  background-position: center;
+  color: white;
+  background-color: #ff5a30;
+}
